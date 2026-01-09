@@ -8,10 +8,10 @@ I build production-ready machine learning systems that solve real-world problems
 
 ## 🚀 What I Do
 
-- 🤖 **Machine Learning Engineering**: Time series forecasting, fraud detection, production ML systems
+- 🤖 **Machine Learning Engineering**: RAG systems, time series forecasting, fraud detection
 - ☁️ **Cloud MLOps**: AWS SageMaker, Lambda, Docker, CI/CD pipelines
-- 📊 **Data Science**: Statistical modeling, ARIMA, Exponential Smoothing, predictive analytics
-- 🛠️ **Tech Stack**: Python, FastAPI, Streamlit, Pandas, Scikit-learn, TensorFlow
+- 📊 **Data Science**: Statistical modeling, LangChain, ARIMA, predictive analytics
+- 🛠️ **Tech Stack**: Python, FastAPI, Streamlit, LangChain, Pandas, Scikit-learn
 
 ---
 
@@ -23,31 +23,32 @@ I build production-ready machine learning systems that solve real-world problems
 [![Databricks](https://img.shields.io/badge/Databricks-ML_Professional-FF3621?style=flat-square&logo=databricks)](https://www.databricks.com/learn/certification)
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-AI_Infrastructure-76B900?style=flat-square&logo=nvidia)](https://www.nvidia.com/en-us/training/)
 
-**+ Google Data Analytics | IBM Data Science**
+**+ Google Data Analytics | IBM Data Science Professional**
 
 ---
 
 ## 💻 Featured Projects
 
-### 🎯 [Stock Forecast ML Dashboard](https://github.com/Donald8585/stock-forecast-ml-dashboard)
+### 🏥 [HK Healthcare RAG Chatbot](https://github.com/Donald8585/hk-healthcare-rag-chatbot)
+Production RAG chatbot using LangChain, Chroma, and Ollama for Hong Kong healthcare data
+- 🧠 Advanced retrieval-augmented generation (RAG) architecture
+- 📚 Vector database with Chroma for efficient similarity search
+- 🤖 Local LLM deployment with Ollama for data privacy
+- ⚡ Optimized embedding pipeline for healthcare domain knowledge
+
+### 📈 [Stock Forecast ML Dashboard](https://github.com/Donald8585/stock-forecast-ml-dashboard)
 Real-time stock price forecasting with multi-model comparison (ARIMA, Exponential Smoothing)
 - 📊 Live data from Yahoo Finance API with smart caching
 - 🎨 Interactive Streamlit dashboard with Plotly visualizations
 - 🛡️ Production-grade error handling and fallback mechanisms
 - **[Live Demo](https://stock-forecast-donald8585.streamlit.app)**
 
-### 🔐 [Fraud Detection ML System](https://github.com/Donald8585/fraud-detection-ml)
+### 🔐 [Fraud Detection MLOps](https://github.com/Donald8585/fraud-detection-mlops)
 End-to-end fraud detection pipeline deployed on AWS
 - 🚀 FastAPI + AWS Lambda + SageMaker architecture
 - ⚡ Real-time inference with sub-second response times
-- 📈 XGBoost model with 95%+ accuracy
-- **[API Demo](your-api-url-here)**
-
-### 📈 [Time Series Analyzer](https://github.com/Donald8585/time-series-analyzer)
-Advanced time series forecasting toolkit
-- 🔄 Multiple algorithms: ARIMA, LSTM, Prophet
-- 📊 Automated model selection and hyperparameter tuning
-- 🎯 Production deployment with Docker
+- 📈 XGBoost model with 95%+ accuracy on fraud detection
+- 🔄 CI/CD pipeline with automated model deployment
 
 ---
 
@@ -61,6 +62,7 @@ Advanced time series forecasting toolkit
 **ML & Data Science:**  
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
@@ -78,18 +80,18 @@ Advanced time series forecasting toolkit
 
 ## 📊 GitHub Stats
 
-![Alfred's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Donald8585&show_icons=true&theme=tokyonight)
+![Alfred's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Donald8585&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Donald8585&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Donald8585&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🎯 Currently
 
-- 🔭 Building production ML systems with focus on scalability and reliability
+- 🔭 Building production ML systems with focus on RAG and time series forecasting
 - 🌱 Expanding expertise: NVIDIA certifications (NCA-GENL, NCP-AAI, NCP-ADS)
 - 💼 Seeking ML Engineer opportunities in San Francisco Bay Area
-- 🎓 Preparing for advanced MLOps and LLM engineering roles
+- 🎓 Exploring LLM engineering and advanced MLOps practices
 
 ---
 
@@ -102,6 +104,6 @@ Advanced time series forecasting toolkit
 
 ---
 
-💡 **Open to opportunities in:** ML Engineering | MLOps | Data Science | AI/ML Infrastructure
+💡 **Open to opportunities in:** ML Engineering | MLOps | RAG Systems | Time Series Forecasting | AI Infrastructure
 
 ⭐️ From [Donald8585](https://github.com/Donald8585)
