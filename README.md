@@ -34,7 +34,7 @@ I build **production-ready machine learning systems** deployed at scale. Special
 ✅ IBM Data Science Professional  
 ✅ Google Data Analytics Professional
 
-**Upcoming (Jan 2026):** Nutanix NCA-GENL, NCP-AAI, NCP-ADS
+**Upcoming (Jan 2026):** NVIDIA NCA-GENL, NCP-AAI, NCP-ADS
 
 ---
 
