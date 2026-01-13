@@ -17,7 +17,7 @@ I build **production-ready machine learning systems** deployed at scale. Special
 - 🛠️ **Tech Stack**: Python, FastAPI, Streamlit, Docker, REST APIs, CI/CD pipelines
 
 **Unique Edge:** 
-- 📚 Published author of ["The Technocratic Dividend"](https://www.amazon.com/dp/9887144614) (2024, Amazon, Barnes & Noble)—demonstrates ability to communicate complex technical concepts
+- 📚 Published author of ["The Technocratic Dividend"](https://www.amazon.com/dp/9887144614) (2025, Amazon, Barnes & Noble)—demonstrates ability to communicate complex technical concepts
 - 🏥 4+ years healthcare domain expertise as licensed Occupational Therapist—translating complex stakeholder needs into technical solutions
 
 ---
@@ -141,7 +141,7 @@ Interactive ML web app for **real-time diabetes risk prediction**
 ## 📚 Published Work
 
 ### 📖 [The Technocratic Dividend](https://www.amazon.com/dp/9887144614)
-**Author** | Published 2024 via Axiom Rising Media | ISBN: 9887144614
+**Author** | Published 2025 via Axiom Rising Media | ISBN: 9887144614
 
 244-page analysis of evidence-based governance and technology policy, distributed through Amazon, Barnes & Noble, IngramSpark, and independent bookstores. Demonstrates ability to synthesize complex technical concepts into accessible narratives for general audiences—critical skill for cross-functional ML engineering roles.
 
