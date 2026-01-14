@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alfred So (蘇哲緯)
 
-### ML Engineer | 9 Cloud & ML Certifications | Published Author | Production MLOps
+### ML Engineer | 10 Cloud & ML Certifications | Published Author | Production MLOps
 
 I build **production-ready machine learning systems** deployed at scale. Specializing in RAG systems, multi-agent AI, vision-language models, neural recommendation systems, and real-time ML pipelines—**all with live demos you can try right now**.
 
@@ -31,6 +31,8 @@ I build **production-ready machine learning systems** deployed at scale. Special
 [![Databricks](https://img.shields.io/badge/Databricks-ML_Professional-FF3621?style=flat-square&logo=databricks)](https://www.databricks.com/learn/certification)
 [![NVIDIA AI Infra](https://img.shields.io/badge/NVIDIA-AI_Infrastructure-76B900?style=flat-square&logo=nvidia)](https://www.nvidia.com/en-us/training/)
 [![NVIDIA GenAI](https://img.shields.io/badge/NVIDIA-Generative_AI-76B900?style=flat-square&logo=nvidia)](https://www.nvidia.com/en-us/training/)
+[![NVIDIA NCP-AAI](https://img.shields.io/badge/NVIDIA-Agentic_AI_Professional-76B900?style=flat-square&logo=nvidia)](https://www.nvidia.com/en-us/training/)
+
 
 **Foundations:**  
 ✅ DeepLearning.AI TensorFlow Developer  
