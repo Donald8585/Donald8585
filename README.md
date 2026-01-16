@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alfred So (蘇哲緯)
 
-### ML Engineer | 10 Cloud & ML Certifications | Published Author | Production MLOps
+### ML Engineer | 11 Cloud & ML Certifications | Published Author | Production MLOps
 
 I build **production-ready machine learning systems** deployed at scale. Specializing in RAG systems, multi-agent AI, vision-language models, neural recommendation systems, and real-time ML pipelines—**all with live demos you can try right now**.
 
@@ -12,7 +12,7 @@ I build **production-ready machine learning systems** deployed at scale. Special
 
 - 🤖 **Production ML Systems**: Neural recommenders, RAG chatbots, multi-agent AI, fraud detection, time series forecasting
 - 🧠 **AI/LLM Engineering**: LangChain, CrewAI, vision-language models (PaliGemma), fine-tuning with LoRA/PEFT
-- ☁️ **Cloud MLOps**: AWS (SageMaker, Lambda), GCP, Azure, Databricks, Modal Labs, serverless deployment
+- ☁️ **Cloud MLOps**: AWS (SageMaker, Lambda), GCP, Azure, Databricks, Modal Labs, serverless deployment, **NVIDIA Accelerated Data Science**
 - 📊 **Deep Learning**: PyTorch, TensorFlow, Neural Collaborative Filtering, LSTM, Transformers
 - 🛠️ **Tech Stack**: Python, FastAPI, Streamlit, Docker, REST APIs, CI/CD pipelines
 
@@ -22,17 +22,17 @@ I build **production-ready machine learning systems** deployed at scale. Special
 
 ---
 
-## 🏆 Certifications (9 Total)
+## 🏆 Certifications (11 Total)
 
 **Advanced ML & AI:**
 [![AWS ML](https://img.shields.io/badge/AWS-ML_Specialty-FF9900?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/certification/)
 [![Azure AI](https://img.shields.io/badge/Azure-AI_Engineer-0078D4?style=flat-square&logo=microsoft-azure)](https://learn.microsoft.com/en-us/certifications/)
 [![GCP ML](https://img.shields.io/badge/GCP-ML_Engineer-4285F4?style=flat-square&logo=google-cloud)](https://cloud.google.com/certification)
 [![Databricks](https://img.shields.io/badge/Databricks-ML_Professional-FF3621?style=flat-square&logo=databricks)](https://www.databricks.com/learn/certification)
+[![NVIDIA ADS](https://img.shields.io/badge/NVIDIA-Accelerated_Data_Science-76B900?style=flat-square&logo=nvidia)](https://www.nvidia.com/en-us/training/)
 [![NVIDIA AI Infra](https://img.shields.io/badge/NVIDIA-AI_Infrastructure-76B900?style=flat-square&logo=nvidia)](https://www.nvidia.com/en-us/training/)
 [![NVIDIA GenAI](https://img.shields.io/badge/NVIDIA-Generative_AI-76B900?style=flat-square&logo=nvidia)](https://www.nvidia.com/en-us/training/)
 [![NVIDIA NCP-AAI](https://img.shields.io/badge/NVIDIA-Agentic_AI_Professional-76B900?style=flat-square&logo=nvidia)](https://www.nvidia.com/en-us/training/)
-
 
 **Foundations:**  
 ✅ DeepLearning.AI TensorFlow Developer  
@@ -163,8 +163,8 @@ Interactive ML web app for **real-time diabetes risk prediction**
 
 - 🎓 **MSc Data Science & AI** at Hang Seng University of Hong Kong (graduating May 2026, GPA: 3.8+)
 - 🏗️ Building production ML systems: neural recommenders, RAG chatbots, multi-agent AI, vision-language models
-- 📚 Certified: AWS ML Specialty, Azure AI Engineer, GCP ML Engineer, Databricks ML Professional, NVIDIA AI (2 certs)
-- 💼 Seeking **ML Engineer / MLOps Engineer / AI Engineer** roles in Hong Kong & San Francisco Bay Area
+- 🏆 **11 Professional Certifications:** AWS ML, Azure AI, GCP ML, Databricks, NVIDIA (4 certs), TensorFlow, IBM Data Science, Google Data Analytics
+- 💼 Seeking **ML Engineer / MLOps Engineer / AI Engineer** roles in Hong Kong & San Francisco Bay Area (Available June 2026)
 - 🌱 Exploring advanced LLM engineering, model fine-tuning (LoRA/PEFT), serverless ML infrastructure (Modal Labs)
 
 ---
