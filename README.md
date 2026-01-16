@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alfred So (蘇哲緯)
 
-### ML Engineer | 11 Cloud & ML Certifications | Published Author | Production MLOps
+### ML Engineer | 11 Cloud & ML Certifications | Published Author | AI Startup Founder
 
 I build **production-ready machine learning systems** deployed at scale. Specializing in RAG systems, multi-agent AI, vision-language models, neural recommendation systems, and real-time ML pipelines—**all with live demos you can try right now**.
 
@@ -17,6 +17,7 @@ I build **production-ready machine learning systems** deployed at scale. Special
 - 🛠️ **Tech Stack**: Python, FastAPI, Streamlit, Docker, REST APIs, CI/CD pipelines
 
 **Unique Edge:** 
+- 🏆 **Founder & Tech Lead, MindGlow AI** — GBA Youth Startup Competition Finalist (HKD$360K funding) building AI-powered hypnosis therapy platform
 - 📚 Published author of ["The Technocratic Dividend"](https://www.amazon.com/dp/9887144614) (2025, Amazon, Barnes & Noble)—demonstrates ability to communicate complex technical concepts
 - 🏥 4+ years healthcare domain expertise as licensed Occupational Therapist—translating complex stakeholder needs into technical solutions
 
@@ -38,6 +39,24 @@ I build **production-ready machine learning systems** deployed at scale. Special
 ✅ DeepLearning.AI TensorFlow Developer  
 ✅ IBM Data Science Professional  
 ✅ Google Data Analytics Professional
+
+---
+
+## 💼 Entrepreneurship
+
+### 🧠 MindGlow AI — Founder & Tech Lead
+**GBA Youth Startup Competition Finalist** | HKD$360,000 Funding Secured
+
+Building an AI-powered hypnosis therapy platform combining clinical expertise with cutting-edge AI/ML technology. Leading technical development, product strategy, and team coordination.
+
+**Key Milestones:**
+- 🎯 Selected as finalist in Greater Bay Area (GBA) Youth Startup Competition
+- 💰 Secured HKD$360,000 in funding for product development
+- 📹 Filming promotional content with production company (Jan 31, 2026)
+- 🏢 Company incorporation planned (June 2026)
+- 🧠 Leveraging OT clinical background + ML engineering expertise to build AI-assisted mental health solutions
+
+**Role:** Founder, Tech Lead, CEO (pending company formation)
 
 ---
 
@@ -162,6 +181,7 @@ Interactive ML web app for **real-time diabetes risk prediction**
 ## 🎯 Currently (January 2026)
 
 - 🎓 **MSc Data Science & AI** at Hang Seng University of Hong Kong (graduating May 2026, GPA: 3.8+)
+- 🚀 **Founder & Tech Lead at MindGlow AI** — GBA Youth Startup Competition Finalist (HKD$360K funding)
 - 🏗️ Building production ML systems: neural recommenders, RAG chatbots, multi-agent AI, vision-language models
 - 🏆 **11 Professional Certifications:** AWS ML, Azure AI, GCP ML, Databricks, NVIDIA (4 certs), TensorFlow, IBM Data Science, Google Data Analytics
 - 💼 Seeking **ML Engineer / MLOps Engineer / AI Engineer** roles in Hong Kong & San Francisco Bay Area (Available June 2026)
@@ -184,6 +204,7 @@ Interactive ML web app for **real-time diabetes risk prediction**
 
 ✅ **Production-First Mindset:** 7 live demos deployed—not just notebooks, real systems users can try  
 ✅ **Multi-Cloud Certified:** AWS, Azure, GCP, Databricks, NVIDIA—proven expertise across platforms  
+✅ **Startup Experience:** Founded MindGlow AI (GBA finalist, HKD$360K funding)—proven entrepreneurial drive  
 ✅ **End-to-End ML:** From data processing → model training → production deployment with MLOps  
 ✅ **Cost-Conscious Engineering:** Built systems achieving $0/month operational costs via serverless + free tiers  
 ✅ **Healthcare Domain Expert:** 4+ years OT experience translating complex stakeholder needs into technical solutions  
